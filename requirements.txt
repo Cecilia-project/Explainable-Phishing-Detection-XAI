@@ -1,0 +1,13 @@
+# Generated from the import statements in cecilia.ipynb
+# Python 3.11 (as specified in Table 6 of the Methods chapter)
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn==1.5.0
+xgboost==2.1.0
+shap==0.47.0
+lime==0.2.0.1
+imbalanced-learn>=0.12
+matplotlib>=3.7
+scipy>=1.10
+joblib>=1.3
