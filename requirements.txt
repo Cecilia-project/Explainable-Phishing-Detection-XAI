@@ -1,6 +1,5 @@
-# Generated from the import statements in cecilia.ipynb
-# Python 3.11 (as specified in Table 6 of the Methods chapter)
-
+# Generated from the import statements in cecilia(5).ipynb
+# Python 3.11 (as specified Methods chapter)
 pandas>=2.0
 numpy>=1.24
 scikit-learn==1.5.0
